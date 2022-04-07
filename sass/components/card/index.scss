@@ -1,0 +1,36 @@
+.card {
+  width: 375px;
+  background-color: white;
+  border-radius: $rounded-lg;
+  overflow: hidden;
+  &__hero {
+    width: 100%;
+  }
+
+  &__content {
+    padding: 30px 40px;
+  }
+
+  &__title {
+    font-family: $secondary-font;
+    font-weight: $font-dark;
+    color: $dark-blue;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  &__text {
+    font-weight: $font-normal;
+    text-align: center;
+    color: $desaturated-blue;
+    margin: 20px;
+    line-height: 1.4;
+    letter-spacing: -1px;
+  }
+
+  &__buttons {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+}

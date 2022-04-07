@@ -1,0 +1,16 @@
+{
+  "name": "order-summary",
+  "version": "0.0.1",
+  "description": "Proyecto SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/main.scss css/main.css --style compressed --watch",
+    "server": "live-server --port=3000 --no-browser"
+  },
+  "author": "cristhianjhl",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.1",
+    "sass": "1.49.11"
+  }
+}
