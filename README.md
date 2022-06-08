@@ -34,6 +34,6 @@ Puedes seguirme en cualquiera de mis redes sociales para que estes al tanto de t
 - 📘 [LinkedIn.com](https://www.linkedin.com/in/cristhianjhl/)
 - 🦝 [GitHub.com](https://github.com/cristhianjhlweb)
 - 📹 [YouTube.com](https://www.youtube.com/channel/UCHAghHz0ytlb7OthFRJRg7Q)
-- 🌐 [Cristhianjhl.com](https://cristhianjhl.com?utm_source=github&utm_medium=referrer&utm_campaign=task_app_reactjs)
+- 🌐 [Cristhianjhl.com](https://cristhianjhl.com?utm_source=github&utm_medium=referrer&utm_campaign=order_summary_component)
 
-Hice este proyecto en vivo transmitiendo por 📺 [Twitch.tv](https://twitch.tv/ihasaku)
+Hice este proyecto en vivo transmitiendo por 📺 [Twitch.tv](https://twitch.tv/cristhianjhlweb)
